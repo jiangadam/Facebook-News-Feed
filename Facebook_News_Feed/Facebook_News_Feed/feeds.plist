@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.srcdn.com/wp-content/uploads/daenerys.jpg</string>
+		<key>feedImageName</key>
+		<string>Pokemon</string>
+		<key>feedText</key>
+		<string>Addicted. #PokemonGO</string>
+		<key>profileImageName</key>
+		<string>Targaryen</string>
+		<key>name</key>
+		<string>Daenerys Targaryen</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.yourtango.com/cdn/farfuture/LJAATMYnVKJdzVLgsGWHLGW480jLDJAyFePHfHkQU8o/mtime:1429812827/sites/default/files/styles/header_slider/public/display_list/tyrion_main.jpg?itok=Xj_qE3oE</string>
+		<key>feedImageName</key>
+		<string>Belief</string>
+		<key>feedText</key>
+		<string>Let them see that their words can hurt you, and you&apos;ll never be free of the mockery.\n If they want to give you a name. Take it.\n Make it your own. Then they can&apos;t hurt you with it anymore.</string>
+		<key>profileImageName</key>
+		<string>Lannister</string>
+		<key>name</key>
+		<string>Tyrion Lannister</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.srcdn.com/wp-content/uploads/daenerys.jpg</string>
+		<key>feedImageName</key>
+		<string>Pokemon</string>
+		<key>feedText</key>
+		<string>Addicted. #PokemonGO</string>
+		<key>profileImageName</key>
+		<string>Targaryen</string>
+		<key>name</key>
+		<string>Daenerys Targaryen</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.yourtango.com/cdn/farfuture/LJAATMYnVKJdzVLgsGWHLGW480jLDJAyFePHfHkQU8o/mtime:1429812827/sites/default/files/styles/header_slider/public/display_list/tyrion_main.jpg?itok=Xj_qE3oE</string>
+		<key>feedImageName</key>
+		<string>Belief</string>
+		<key>feedText</key>
+		<string>Let them see that their words can hurt you, and you&apos;ll never be free of the mockery.\n If they want to give you a name. Take it.\n Make it your own. Then they can&apos;t hurt you with it anymore.</string>
+		<key>profileImageName</key>
+		<string>Lannister</string>
+		<key>name</key>
+		<string>Tyrion Lannister</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.srcdn.com/wp-content/uploads/daenerys.jpg</string>
+		<key>feedImageName</key>
+		<string>Pokemon</string>
+		<key>feedText</key>
+		<string>Addicted. #PokemonGO</string>
+		<key>profileImageName</key>
+		<string>Targaryen</string>
+		<key>name</key>
+		<string>Daenerys Targaryen</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://static.yourtango.com/cdn/farfuture/LJAATMYnVKJdzVLgsGWHLGW480jLDJAyFePHfHkQU8o/mtime:1429812827/sites/default/files/styles/header_slider/public/display_list/tyrion_main.jpg?itok=Xj_qE3oE</string>
+		<key>feedImageName</key>
+		<string>Belief</string>
+		<key>feedText</key>
+		<string>Let them see that their words can hurt you, and you&apos;ll never be free of the mockery.\n If they want to give you a name. Take it.\n Make it your own. Then they can&apos;t hurt you with it anymore.</string>
+		<key>profileImageName</key>
+		<string>Lannister</string>
+		<key>name</key>
+		<string>Tyrion Lannister</string>
+	</dict>
+	<dict>
+		<key>feedImageUrl</key>
+		<string>http://ichef.bbci.co.uk/news/976/cpsprodpb/5E42/production/_88303142_gettyimages-462819114.jpg</string>
+		<key>feedImageName</key>
+		<string>Monday</string>
+		<key>feedText</key>
+		<string>I don&apos;t want Monday!</string>
+		<key>profileImageName</key>
+		<string>Snow</string>
+		<key>name</key>
+		<string>Jon Snow</string>
+	</dict>
+</array>
+</plist>
